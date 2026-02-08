@@ -1,57 +1,35 @@
 ---
 layout: default
-title: tanformation 的个人空间
+title: Welcome to My World!
 ---
 
 # 👋 你好，欢迎来到我的个人空间！
 
-我是 **tanformation**，一名热爱学习和探索的在校学生。这里是我的数字花园，记录着我的成长轨迹和思考。
-
-## 📋 个人简介
-
-### 基本信息
-- **姓名**：tanformation
-- **邮箱**：tanformation@example.com
-- **电话**：+86 138-XXXX-XXXX
-- **所在地**：中国
-
-### 学习情况
-- **学校**：[你的学校名称]
-- **专业**：[你的专业]
-- **年级**：[你的年级]
-- **主修课程**：[列出几门核心课程]
-
-### 当前学习重点
-- 计算机科学基础
-- 编程语言（Python/JavaScript）
-- 数据结构与算法
-- 前端开发技术
+我是 **张子木**，现在就读于中国科学技术大学，是一名网络空间安全专业的大二学生。欢迎大家一起交流学习！
 
 ## 📚 课程学习资料
 
 我整理了学习过程中的各种资料，按课程分类：
 
-### 计算机基础
-- [数据结构笔记](./materials/data-structure-notes.pdf) 📄
-- [算法导论课程PPT](./materials/algorithms-ppt.zip) 📦
-- [操作系统往年试题](./materials/os-exams-2023.pdf) 📄
-- [计算机网络实验报告](./materials/network-lab-report.docx) 📝
+### 数学类课程
+- [数学分析B1](./materials/data-structure-notes.pdf) 📄
+- [数学分析B2](./materials/algorithms-ppt.zip) 📦
+- [复变函数B](./materials/os-exams-2023.pdf) 📄
+- [概率论与数理统计](./materials/network-lab-report.docx) 📝
+- [近世代数与数论](./materials/data-structure-notes.pdf) 📄
 
-### 编程语言
-- [Python学习笔记](./materials/python-notes.pdf) 📄
-- [Java编程习题集](./materials/java-exercises.zip) 📦
-- [C++代码示例](./materials/cpp-examples/) 📁
+### 物理类课程
+- [力学B](./materials/python-notes.pdf) 📄
+- [热学B](./materials/java-exercises.zip) 📦
+- [电磁学C](./materials/cpp-examples/) 📁
 
-### 数学相关
-- [高等数学公式总结](./materials/math-formulas.pdf) 📄
-- [线性代数笔记](./materials/linear-algebra-notes.pdf) 📄
-- [概率论与数理统计资料](./materials/probability-materials/) 📁
+### 计算机类课程
+- [数据结构及其算法](./materials/math-formulas.pdf) 📄
 
-### 其他课程
-- [英语专业词汇表](./materials/english-vocabulary.pdf) 📄
-- [项目管理课程作业](./materials/project-management-assignment.docx) 📝
+### 网安培养方案内其他专业课程
+- [电子线路（又名电路分析与模拟电子电路结合体](./materials/english-vocabulary.pdf) 📄
 
-> 💡 **提示**：点击文件名即可下载。我会持续更新这些资料。
+> 💡 **提示**：点击文件名即可下载。我会持续更新这些资料，如果下载失败请及时联系我。
 
 ## 🏫 学校生活指南
 
@@ -114,9 +92,8 @@ title: tanformation 的个人空间
 - [在线代码练习](https://leetcode.com/tanformation)
 
 ### 联系我
-- **邮箱**：tanformation@example.com
-- **GitHub**：[tanformation](https://github.com/tanformation)
-- **博客**：[个人技术博客](https://tanformation.gitcode.io/blog)
+- **邮箱**：xx900108@mail.ustc.edu.cn
+- **GitHub**：[tanformation](https://github.com/Tanformation73)
 
 ### 网站地图
 - [关于我](/about/) - 更详细的个人介绍
@@ -146,7 +123,7 @@ title: tanformation 的个人空间
 建立这个网站的初衷是：
 - 整理和沉淀自己的知识体系
 - 分享有用的信息和经验
-- 记录成长过程中的点滴
+- 记录成长过程中的点滴，不定期更新一些兴趣爱好相关
 - 与更多志同道合的朋友交流
 
 **欢迎交流、建议和合作！**
