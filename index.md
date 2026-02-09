@@ -27,7 +27,7 @@ title: Welcome to My World!
 - [数据结构及其算法](./materials/math-formulas.pdf) 📄
 
 ### 网安培养方案内其他专业课程
-- [电子线路（又名电路分析与模拟电子电路结合体）](.materials/electronic circuit/电子线路期末复习_202601181819_23074.pdf) 📄
+- [电子线路（又名电路分析与模拟电子电路结合体）](./materials/electronic%20circuit/电子线路期末复习_202601181819_23074.pdf) 📄
 
 > 💡 **提示**：点击文件名即可下载。我会持续更新这些资料，如果下载失败请及时联系我。
 
