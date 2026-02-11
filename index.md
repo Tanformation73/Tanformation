@@ -15,10 +15,12 @@ title: Welcome to My World!
 - [数学分析B1](./materials/data-structure-notes.pdf) 📄
 - [数学分析B2](./materials/algorithms-ppt.zip) 📦
 - [复变函数B](./materials/os-exams-2023.pdf) 📄
-- 概率论与数理统计\
-   [概统期末笔记](./materials/概率论与数理统计/概统期末笔记.pdf) 📝\
+- 概率论与数理统计📝\
+   [概统期末笔记](./materials/概率论与数理统计/概统期末笔记.pdf) \
       概统往年题 [24秋](.materials/概率论与数理统计/往年题/24秋.pdf)\ [24春](.materials/概率论与数理统计/往年题/24春.pdf)
-- [近世代数与数论](./materials/近世代数与数论) 📄
+- 近世代数与数论📄\
+  [近世代数与数论期末复习笔记](.materials/近世代数与数论/近世代数与数论期末笔记.pdf)\
+  [近世代数与数论期末PPT](.materials/近世代数与数论/总结.ppt)
 
 ### 物理类课程
 - [力学B](./materials/python-notes.pdf) 📄
