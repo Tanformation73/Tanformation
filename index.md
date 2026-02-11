@@ -15,7 +15,7 @@ title: Welcome to My World!
 - [数学分析B1](./materials/data-structure-notes.pdf) 📄
 - [数学分析B2](./materials/algorithms-ppt.zip) 📦
 - [复变函数B](./materials/os-exams-2023.pdf) 📄
-- [概率论与数理统计](./materials/network-lab-report.docx) 📝
+- [概率论与数理统计](./materials/概率论与数理统计) 📝
 - [近世代数与数论](./materials/data-structure-notes.pdf) 📄
 
 ### 物理类课程
