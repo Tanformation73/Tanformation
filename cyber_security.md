@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 网安其他专业课程
-permalink: /electronic-circuit/
+permalink: /cyber_security/
 ---
 
 # ⚡ 电子线路（电路分析与模拟电子电路）
