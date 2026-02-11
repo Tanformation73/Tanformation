@@ -17,7 +17,7 @@ title: Welcome to My World!
 - [复变函数B](./materials/os-exams-2023.pdf) 📄
 - 概率论与数理统计\
    [概统期末笔记](./materials/概率论与数理统计/概统期末笔记.pdf) 📝\
-      概统往年题 [24秋](.materials/概率论与数理统计/往年题/24秋)\ [24春](.materials/概率论与数理统计/往年题/24春)
+      概统往年题 [24秋](.materials/概率论与数理统计/往年题/24秋.pdf)\ [24春](.materials/概率论与数理统计/往年题/24春.pdf)
 - [近世代数与数论](./materials/近世代数与数论) 📄
 
 ### 物理类课程
