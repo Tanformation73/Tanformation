@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 张子木 · 个人空间
+title: Welcome to My World!
 ---
 
 # 👋 你好，我是张子木
 
-**中国科学技术大学** · 网络空间安全 · 大二 
+**中国科学技术大学** · 网络空间安全 · 大二 \
 此网站用来记录个人的学习与生活历程，欢迎大家一起交流探讨
 
 ---
@@ -37,8 +37,8 @@ title: 张子木 · 个人空间
 
 <div class="nav-card">
   <div class="card-icon">⚡</div>
-  <h3>电子线路</h3>
-  <p>电路分析 · 模拟电子技术 · 期末复习</p>
+  <h3>网安其他专业课程</h3>
+  <p>电子线路 · 其他 · 其他</p>
   <a href="{{ site.baseurl }}/electronic-circuit/" class="nav-btn">进入资料库 →</a>
 </div>
 
