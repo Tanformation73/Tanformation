@@ -39,7 +39,7 @@ title: Welcome to My World!
   <div class="card-icon">⚡</div>
   <h3>网安其他专业课程</h3>
   <p>电子线路 · 其他 · 其他</p>
-  <a href="{{ site.baseurl }}/electronic-circuit/" class="nav-btn">进入资料库 →</a>
+  <a href="{{ site.baseurl }}/cyber_security/" class="nav-btn">进入资料库 →</a>
 </div>
 
 <div class="nav-card">
